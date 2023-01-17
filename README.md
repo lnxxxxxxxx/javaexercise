@@ -1,5 +1,9 @@
 # javaexercise
-java exercise practice in progress >>>>>>
+JAVA EXCERCICES PRACTICE IN PROGRESS >>>>>>
+
+
+
+
 20.1.1 EJERCICIO 1
 Crear dos variables de cualquiera de los tipos básicos, dar un valor a la primera y a continuación asigne la segunda a la primera. Imprimir por pantalla las dos variables. Cambiar el valor de la segunda variable y volver a imprimir las variables por pantalla. ¿Qué es lo que ocurre?
 
